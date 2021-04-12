@@ -1,0 +1,190 @@
+.main-structure {
+    width: 60%;
+    margin: 70px auto;
+    border: 3px solid black;
+}
+
+.main-structure section,
+.main-structure div,
+.main-structure footer {
+    width: 100%;
+}
+
+.main-structure div {
+    height: 175px;
+}
+
+.main-structure section,
+.main-structure footer {
+    height: 75px;
+}
+
+#first section {
+    background: steelblue;
+}
+
+#first div {
+
+}
+
+#first footer {
+    background: black;
+    color: white;
+}
+
+
+
+#second section {
+    background: #1E469B;
+}
+
+#second div {
+    background: #7A9FEF;
+}
+
+#second footer {
+    background: #21B3FF;
+    color: white;
+}
+
+/*THIRD*/
+
+
+#third section {
+    background: #1F5D07;
+}
+
+#third div {
+    background: #3EDB01;
+}
+
+#third footer {
+    background: #17E5AA;
+    /*color: white;*/
+}
+
+
+/*FOURTH*/
+
+
+#fourth section {
+    background: #1E469B;
+}
+
+#fourth div {
+
+}
+
+#fourth footer {
+    background: black;
+    color: white;
+}
+
+
+/*FIFTH*/
+
+
+#fifth section {
+    background: #1E469B;
+}
+
+#fifth div {
+
+}
+
+#fifth footer {
+    background: black;
+    color: white;
+}
+
+
+/*SIXTH*/
+
+
+#sixth section {
+    background: #1E469B;
+}
+
+#sixth div {
+
+}
+
+#sixth footer {
+    background: black;
+    color: white;
+}
+
+
+
+/*SEVENTH*/
+
+
+#seventh section {
+    background: #1E469B;
+}
+
+#seventh div {
+
+}
+
+#seventh footer {
+    background: black;
+    color: white;
+}
+
+
+
+/*EIGHTH*/
+
+
+#eighth section {
+    background: #1E469B;
+}
+
+#eighth div {
+
+}
+
+#eighth footer {
+    background: black;
+    color: white;
+}
+
+
+
+
+/*NINTH*/
+
+
+
+#ninth section {
+    background: #1E469B;
+}
+
+#ninth div {
+
+}
+
+#ninth footer {
+    background: black;
+    color: white;
+}
+
+
+
+/*TENTH*/
+
+
+
+#tenth section {
+    background: #1E469B;
+}
+
+tenth div {
+
+}
+
+#tenth footer {
+    background: black;
+    color: white;
+}
